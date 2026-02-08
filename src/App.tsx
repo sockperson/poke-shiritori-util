@@ -224,7 +224,7 @@ function App() {
       if (useOnlyFinalEvolutions && !p.isFinalEvolution) {
         return false;
       }
-      const label = normalize(p.jpName);
+      const label = p.jpName;
 
       // check if shiritori is valid
       const shiritoriValidity = getShiritoriValidity(prevPokemon, nextPokemon, label)
@@ -232,7 +232,7 @@ function App() {
         return false;
       } 
       // finally check if it matches the current input
-      return currentInput ? label.startsWith(currentInput) : true
+      return currentInput ? normalizeKana(label).startsWith(currentInput) : true
     })
 
     return (
