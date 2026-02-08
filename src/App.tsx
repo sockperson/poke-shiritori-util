@@ -182,6 +182,7 @@ function getShiritoriValidity(
 }
 
 function App() {
+  console.log(normalize("ポリゴンＺ"));
   const data = useMemo(() => pokemon as Array<Pokemon>, [])
 
   const [inputValues, setInputValues] = useState<string[]>(Array(6).fill(''))
@@ -223,7 +224,7 @@ function App() {
       if (useOnlyFinalEvolutions && !p.isFinalEvolution) {
         return false;
       }
-      const label = normalizeKana(p.jpName);
+      const label = normalize(p.jpName);
 
       // check if shiritori is valid
       const shiritoriValidity = getShiritoriValidity(prevPokemon, nextPokemon, label)
