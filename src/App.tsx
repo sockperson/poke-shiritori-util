@@ -235,12 +235,17 @@ function App() {
     })
 
     return (
-      <Stack direction="row" spacing={2} alignItems="center">
+      <Stack direction="row" spacing={2} alignItems="center" sx={{ width: '100%', maxWidth: 800, justifyContent: 'center' }}>
       <Box sx={{ width: 50, display: 'flex', justifyContent: 'center' }}>
         {pokemonIcon(selectedPokemon[index])}
       </Box>
       <Autocomplete
-        sx={{ width: { xs: '70%', sm: 420, md: 560 } }}
+        sx={{
+          flexGrow: 1,
+          minWidth: 0,
+          maxWidth: 550
+        }}
+        fullWidth
         options={filtered.slice().sort((a, b) => { // sort by dex ID
           return a.id - b.id;
         })}
@@ -296,8 +301,10 @@ function App() {
 
   return (
     <Box sx={{ p: 3 }}>
-      <Stack spacing={2}>
-        <h3>ポケモンしりとりutil</h3>
+      <Stack spacing={2} alignItems="stretch" sx={{ width: '100%' }}>
+        <Box sx={{ textAlign: 'center' }}>
+          <h3>ポケモンしりとりutil</h3>
+        </Box>
         <Box sx={{ display: 'flex', justifyContent: 'center' }}>
           <FormControlLabel
             control={
@@ -311,7 +318,7 @@ function App() {
         </Box>
           {
             Array.from({ length: 6 }).map((_, i) => (
-              <Box key={i}>
+              <Box key={i} sx={{ display: 'flex', justifyContent: 'center' }}>
                 {picker(i)}
               </Box>
             ))
