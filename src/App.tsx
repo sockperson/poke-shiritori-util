@@ -240,7 +240,7 @@ function App() {
         {pokemonIcon(selectedPokemon[index])}
       </Box>
       <Autocomplete
-        sx={{ width: { xs: '50%', sm: 420, md: 560 } }}
+        sx={{ width: { xs: '70%', sm: 420, md: 560 } }}
         options={filtered.slice().sort((a, b) => { // sort by dex ID
           return a.id - b.id;
         })}

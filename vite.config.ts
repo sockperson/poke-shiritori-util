@@ -5,5 +5,5 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   plugins: [react()],
   // Set base for GitHub Pages project site: https://<user>.github.io/shiritori-pk/
-  base: '/shiritori-pk/',
+  base: '/poke-shiritori-util/',
 })
