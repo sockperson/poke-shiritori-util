@@ -235,6 +235,8 @@ function App() {
       return currentInput ? normalizeKana(label).startsWith(currentInput) : true
     })
 
+    const sortedFiltered = filtered.slice().sort((a, b) => a.id - b.id); // sort by dex ID
+
     return (
       <Stack direction="row" spacing={2} alignItems="center" sx={{ width: '100%', maxWidth: 800, justifyContent: 'center' }}>
       <Box sx={{ width: 50, display: 'flex', justifyContent: 'center' }}>
@@ -247,13 +249,11 @@ function App() {
           maxWidth: 550
         }}
         fullWidth
-        options={filtered.slice().sort((a, b) => { // sort by dex ID
-          return a.id - b.id;
-        })}
+        options={sortedFiltered}
         filterOptions={(_options, _state) => {
           const shouldGate = !rawInput && !prevPokemon && !nextPokemon
           if (shouldGate) return [] // show nothing if no input AND no prev/next pokemon, to avoid excess options
-          return filtered;
+          return sortedFiltered;
         }}
         openOnFocus={false}
         clearOnBlur={false}
