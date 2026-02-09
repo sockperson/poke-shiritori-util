@@ -1,5 +1,5 @@
 # ポケモンしりとりutil
-React + TS + Vite simple project to help teambuild shiritori pokemon team
+React + TS + Vite しりとりパを作り易くするツール
 
-Usage:
+使用:
 npm run dev

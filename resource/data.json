@@ -4,4836 +4,6272 @@
     "jpName": "ニャオハ",
     "id": 906,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "floragato",
     "jpName": "ニャローテ",
     "id": 907,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "meowscarada",
     "jpName": "マスカーニャ",
     "id": 908,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "fuecoco",
     "jpName": "ホゲータ",
     "id": 909,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "crocalor",
     "jpName": "アチゲータ",
     "id": 910,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "skeledirge",
     "jpName": "ラウドボーン",
     "id": 911,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "quaxly",
     "jpName": "クワッス",
     "id": 912,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "quaxwell",
     "jpName": "ウェルカモ",
     "id": 913,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "quaquaval",
     "jpName": "ウェーニバル",
     "id": 914,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "lechonk",
     "jpName": "グルトン",
     "id": 915,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "oinkologne",
     "jpName": "パフュートン",
     "id": 916,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "tarountula",
     "jpName": "タマンチュラ",
     "id": 917,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "spidops",
     "jpName": "ワナイダー",
     "id": 918,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "nymble",
     "jpName": "マメバッタ",
     "id": 919,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "lokix",
     "jpName": "エクスレッグ",
     "id": 920,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "hoppip",
     "jpName": "ハネッコ",
     "id": 187,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "skiploom",
     "jpName": "ポポッコ",
     "id": 188,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "jumpluff",
     "jpName": "ワタッコ",
     "id": 189,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "fletchling",
     "jpName": "ヤヤコマ",
     "id": 661,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "fletchinder",
     "jpName": "ヒノヤコマ",
     "id": 662,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "talonflame",
     "jpName": "ファイアロー",
     "id": 663,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "pawmi",
     "jpName": "パモ",
     "id": 921,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "pawmo",
     "jpName": "パモット",
     "id": 922,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "pawmot",
     "jpName": "パーモット",
     "id": 923,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "houndour",
     "jpName": "デルビル",
     "id": 228,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "houndoom",
     "jpName": "ヘルガー",
     "id": 229,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "yungoos",
     "jpName": "ヤングース",
     "id": 734,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "gumshoos",
     "jpName": "デカグース",
     "id": 735,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "skwovet",
     "jpName": "ホシガリス",
     "id": 819,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "greedent",
     "jpName": "ヨクバリス",
     "id": 820,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "sunkern",
     "jpName": "ヒマナッツ",
     "id": 191,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "sunflora",
     "jpName": "キマワリ",
     "id": 192,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "kricketot",
     "jpName": "コロボーシ",
     "id": 401,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "kricketune",
     "jpName": "コロトック",
     "id": 402,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "scatterbug",
     "jpName": "コフキムシ",
     "id": 664,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "spewpa",
     "jpName": "コフーライ",
     "id": 665,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "vivillon",
     "jpName": "ビビヨン",
     "id": 666,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "combee",
     "jpName": "ミツハニー",
     "id": 415,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "vespiquen",
     "jpName": "ビークイン",
     "id": 416,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "rookidee",
     "jpName": "ココガラ",
     "id": 821,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "corvisquire",
     "jpName": "アオガラス",
     "id": 822,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "corviknight",
     "jpName": "アーマーガア",
     "id": 823,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "happiny",
     "jpName": "ピンプク",
     "id": 440,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "chansey",
     "jpName": "ラッキー",
     "id": 113,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "blissey",
     "jpName": "ハピナス",
     "id": 242,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "azurill",
     "jpName": "ルリリ",
     "id": 298,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "marill",
     "jpName": "マリル",
     "id": 183,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "azumarill",
     "jpName": "マリルリ",
     "id": 184,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "surskit",
     "jpName": "アメタマ",
     "id": 283,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "masquerain",
     "jpName": "アメモース",
     "id": 284,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "buizel",
     "jpName": "ブイゼル",
     "id": 418,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "floatzel",
     "jpName": "フローゼル",
     "id": 419,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "wooper",
     "jpName": "ウパー",
     "id": 194,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "clodsire",
     "jpName": "ドオー",
     "id": 980,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "psyduck",
     "jpName": "コダック",
     "id": 54,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "golduck",
     "jpName": "ゴルダック",
     "id": 55,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "chewtle",
     "jpName": "カムカメ",
     "id": 833,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "drednaw",
     "jpName": "カジリガメ",
     "id": 834,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "igglybuff",
     "jpName": "ププリン",
     "id": 174,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "jigglypuff",
     "jpName": "プリン",
     "id": 39,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "wigglytuff",
     "jpName": "プクリン",
     "id": 40,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "ralts",
     "jpName": "ラルトス",
     "id": 280,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "kirlia",
     "jpName": "キルリア",
     "id": 281,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "gardevoir",
     "jpName": "サーナイト",
     "id": 282,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "gallade",
     "jpName": "エルレイド",
     "id": 475,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "drowzee",
     "jpName": "スリープ",
     "id": 96,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "hypno",
     "jpName": "スリーパー",
     "id": 97,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "gastly",
     "jpName": "ゴース",
     "id": 92,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "haunter",
     "jpName": "ゴースト",
     "id": 93,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "gengar",
     "jpName": "ゲンガー",
     "id": 94,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "tandemaus",
     "jpName": "ワッカネズミ",
     "id": 924,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "maushold",
     "jpName": "イッカネズミ",
     "id": 925,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "pichu",
     "jpName": "ピチュー",
     "id": 172,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "pikachu",
     "jpName": "ピカチュウ",
     "id": 25,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "raichu",
     "jpName": "ライチュウ",
     "id": 26,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "fidough",
     "jpName": "パピモッチ",
     "id": 926,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "dachsbun",
     "jpName": "バウッツェル",
     "id": 927,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "slakoth",
     "jpName": "ナマケロ",
     "id": 287,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "vigoroth",
     "jpName": "ヤルキモノ",
     "id": 288,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "slaking",
     "jpName": "ケッキング",
     "id": 289,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "bounsweet",
     "jpName": "アマカジ",
     "id": 761,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "steenee",
     "jpName": "アママイコ",
     "id": 762,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "tsareena",
     "jpName": "アマージョ",
     "id": 763,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "smoliv",
     "jpName": "ミニーブ",
     "id": 928,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "dolliv",
     "jpName": "オリーニョ",
     "id": 929,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "arboliva",
     "jpName": "オリーヴァ",
     "id": 930,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "bonsly",
     "jpName": "ウソハチ",
     "id": 438,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "sudowoodo",
     "jpName": "ウソッキー",
     "id": 185,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "rockruff",
     "jpName": "イワンコ",
     "id": 744,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "lycanroc",
     "jpName": "ルガルガン",
     "id": 745,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "rolycoly",
     "jpName": "タンドン",
     "id": 837,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "carkol",
     "jpName": "トロッゴン",
     "id": 838,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "coalossal",
     "jpName": "セキタンザン",
     "id": 839,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "shinx",
     "jpName": "コリンク",
     "id": 403,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "luxio",
     "jpName": "ルクシオ",
     "id": 404,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "luxray",
     "jpName": "レントラー",
     "id": 405,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "starly",
     "jpName": "ムックル",
     "id": 396,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "staravia",
     "jpName": "ムクバード",
     "id": 397,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "staraptor",
     "jpName": "ムクホーク",
     "id": 398,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "oricorio",
     "jpName": "オドリドリ",
     "id": 741,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "mareep",
     "jpName": "メリープ",
     "id": 179,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "flaaffy",
     "jpName": "モココ",
     "id": 180,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "ampharos",
     "jpName": "デンリュウ",
     "id": 181,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "petilil",
     "jpName": "チュリネ",
     "id": 548,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "lilligant",
     "jpName": "ドレディア",
     "id": 549,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "shroomish",
     "jpName": "キノココ",
     "id": 285,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "breloom",
     "jpName": "キノガッサ",
     "id": 286,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "applin",
     "jpName": "カジッチュ",
     "id": 840,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "flapple",
     "jpName": "アップリュー",
     "id": 841,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "appletun",
     "jpName": "タルップル",
     "id": 842,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "spoink",
     "jpName": "バネブー",
     "id": 325,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "grumpig",
     "jpName": "ブーピッグ",
     "id": 326,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "squawkabilly",
     "jpName": "イキリンコ",
     "id": 931,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "misdreavus",
     "jpName": "ムウマ",
     "id": 200,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "mismagius",
     "jpName": "ムウマージ",
     "id": 429,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "makuhita",
     "jpName": "マクノシタ",
     "id": 296,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "hariyama",
     "jpName": "ハリテヤマ",
     "id": 297,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "crabrawler",
     "jpName": "マケンカニ",
     "id": 739,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "crabominable",
     "jpName": "ケケンカニ",
     "id": 740,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "salandit",
     "jpName": "ヤトウモリ",
     "id": 757,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "salazzle",
     "jpName": "エンニュート",
     "id": 758,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "phanpy",
     "jpName": "ゴマゾウ",
     "id": 231,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "donphan",
     "jpName": "ドンファン",
     "id": 232,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "cufant",
     "jpName": "ゾウドウ",
     "id": 878,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "copperajah",
     "jpName": "ダイオウドウ",
     "id": 879,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "gible",
     "jpName": "フカマル",
     "id": 443,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "gabite",
     "jpName": "ガバイト",
     "id": 444,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "garchomp",
     "jpName": "ガブリアス",
     "id": 445,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "nacli",
     "jpName": "コジオ",
     "id": 932,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "naclstack",
     "jpName": "ジオヅム",
     "id": 933,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "garganacl",
     "jpName": "キョジオーン",
     "id": 934,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "wingull",
     "jpName": "キャモメ",
     "id": 278,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "pelipper",
     "jpName": "ペリッパー",
     "id": 279,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "magikarp",
     "jpName": "コイキング",
     "id": 129,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "gyarados",
     "jpName": "ギャラドス",
     "id": 130,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "arrokuda",
     "jpName": "サシカマス",
     "id": 846,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "barraskewda",
     "jpName": "カマスジョー",
     "id": 847,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "basculin",
     "jpName": "バスラオ",
     "id": 550,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "gulpin",
     "jpName": "ゴクリン",
     "id": 316,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "swalot",
     "jpName": "マルノーム",
     "id": 317,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "meowth",
     "jpName": "ニャース",
     "id": 52,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "persian",
     "jpName": "ペルシアン",
     "id": 53,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "drifloon",
     "jpName": "フワンテ",
     "id": 425,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "drifblim",
     "jpName": "フワライド",
     "id": 426,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "flabebe",
     "jpName": "フラベベ",
     "id": 669,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "floette",
     "jpName": "フラエッテ",
     "id": 670,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "florges",
     "jpName": "フラージェス",
     "id": 671,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "diglett",
     "jpName": "ディグダ",
     "id": 50,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "dugtrio",
     "jpName": "ダグトリオ",
     "id": 51,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "torkoal",
     "jpName": "コータス",
     "id": 324,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "numel",
     "jpName": "ドンメル",
     "id": 322,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "camerupt",
     "jpName": "バクーダ",
     "id": 323,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "bronzor",
     "jpName": "ドーミラー",
     "id": 436,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "bronzong",
     "jpName": "ドータクン",
     "id": 437,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "axew",
     "jpName": "キバゴ",
     "id": 610,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "fraxure",
     "jpName": "オノンド",
     "id": 611,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "haxorus",
     "jpName": "オノノクス",
     "id": 612,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "mankey",
     "jpName": "マンキー",
     "id": 56,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "primeape",
     "jpName": "オコリザル",
     "id": 57,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "annihilape",
     "jpName": "コノヨザル",
     "id": 979,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "meditite",
     "jpName": "アサナン",
     "id": 307,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "medicham",
     "jpName": "チャーレム",
     "id": 308,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "riolu",
     "jpName": "リオル",
     "id": 447,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "lucario",
     "jpName": "ルカリオ",
     "id": 448,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "charcadet",
     "jpName": "カルボウ",
     "id": 935,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "armarouge",
     "jpName": "グレンアルマ",
     "id": 936,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "ceruledge",
     "jpName": "ソウブレイズ",
     "id": 937,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "barboach",
     "jpName": "ドジョッチ",
     "id": 339,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "whiscash",
     "jpName": "ナマズン",
     "id": 340,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "tadbulb",
     "jpName": "ズピカ",
     "id": 938,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "bellibolt",
     "jpName": "ハラバリー",
     "id": 939,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "goomy",
     "jpName": "ヌメラ",
     "id": 704,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "sliggoo",
     "jpName": "ヌメイル",
     "id": 705,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "goodra",
     "jpName": "ヌメルゴン",
     "id": 706,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "croagunk",
     "jpName": "グレッグル",
     "id": 453,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "toxicroak",
     "jpName": "ドクロッグ",
     "id": 454,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "wattrel",
     "jpName": "カイデン",
     "id": 940,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "kilowattrel",
     "jpName": "タイカイデン",
     "id": 941,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "eevee",
     "jpName": "イーブイ",
     "id": 133,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "vaporeon",
     "jpName": "シャワーズ",
     "id": 134,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "jolteon",
     "jpName": "サンダース",
     "id": 135,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "flareon",
     "jpName": "ブースター",
     "id": 136,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "espeon",
     "jpName": "エーフィ",
     "id": 196,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "umbreon",
     "jpName": "ブラッキー",
     "id": 197,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "leafeon",
     "jpName": "リーフィア",
     "id": 470,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "glaceon",
     "jpName": "グレイシア",
     "id": 471,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "sylveon",
     "jpName": "ニンフィア",
     "id": 700,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "dunsparce",
     "jpName": "ノコッチ",
     "id": 206,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "dudunsparce",
     "jpName": "ノココッチ",
     "id": 982,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "deerling",
     "jpName": "シキジカ",
     "id": 585,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "sawsbuck",
     "jpName": "メブキジカ",
     "id": 586,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "girafarig",
     "jpName": "キリンリキ",
     "id": 203,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "farigiraf",
     "jpName": "リキキリン",
     "id": 981,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "grimer",
     "jpName": "ベトベター",
     "id": 88,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "muk",
     "jpName": "ベトベトン",
     "id": 89,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "maschiff",
     "jpName": "オラチフ",
     "id": 942,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "mabosstiff",
     "jpName": "マフィティフ",
     "id": 943,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "toxel",
     "jpName": "エレズン",
     "id": 848,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "toxtricity",
     "jpName": "ストリンダー",
     "id": 849,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "dedenne",
     "jpName": "デデンネ",
     "id": 702,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "pachirisu",
     "jpName": "パチリス",
     "id": 417,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "shroodle",
     "jpName": "シルシュルー",
     "id": 944,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "grafaiai",
     "jpName": "タギングル",
     "id": 945,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "stantler",
     "jpName": "オドシシ",
     "id": 234,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "foongus",
     "jpName": "タマゲタケ",
     "id": 590,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "amoonguss",
     "jpName": "モロバレル",
     "id": 591,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "voltorb",
     "jpName": "ビリリダマ",
     "id": 100,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "electrode",
     "jpName": "マルマイン",
     "id": 101,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "magnemite",
     "jpName": "コイル",
     "id": 81,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "magneton",
     "jpName": "レアコイル",
     "id": 82,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "magnezone",
     "jpName": "ジバコイル",
     "id": 462,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "ditto",
     "jpName": "メタモン",
     "id": 132,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "growlithe",
     "jpName": "ガーディ",
     "id": 58,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "arcanine",
     "jpName": "ウインディ",
     "id": 59,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "teddiursa",
     "jpName": "ヒメグマ",
     "id": 216,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "ursaring",
     "jpName": "リングマ",
     "id": 217,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "zangoose",
     "jpName": "ザングース",
     "id": 335,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "seviper",
     "jpName": "ハブネーク",
     "id": 336,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "swablu",
     "jpName": "チルット",
     "id": 333,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "altaria",
     "jpName": "チルタリス",
     "id": 334,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "skiddo",
     "jpName": "メェークル",
     "id": 672,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "gogoat",
     "jpName": "ゴーゴート",
     "id": 673,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "tauros",
     "jpName": "ケンタロス",
     "id": 128,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "litleo",
     "jpName": "シシコ",
     "id": 667,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "pyroar",
     "jpName": "カエンジシ",
     "id": 668,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "stunky",
     "jpName": "スカンプー",
     "id": 434,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "skuntank",
     "jpName": "スカタンク",
     "id": 435,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "zorua",
     "jpName": "ゾロア",
     "id": 570,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "zoroark",
     "jpName": "ゾロアーク",
     "id": 571,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "sneasel",
     "jpName": "ニューラ",
     "id": 215,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "weavile",
     "jpName": "マニューラ",
     "id": 461,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "murkrow",
     "jpName": "ヤミカラス",
     "id": 198,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "honchkrow",
     "jpName": "ドンカラス",
     "id": 430,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "gothita",
     "jpName": "ゴチム",
     "id": 574,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "gothorita",
     "jpName": "ゴチミル",
     "id": 575,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "gothitelle",
     "jpName": "ゴチルゼル",
     "id": 576,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "sinistea",
     "jpName": "ヤバチャ",
     "id": 854,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "polteageist",
     "jpName": "ポットデス",
     "id": 855,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "mimikyu",
     "jpName": "ミミッキュ",
     "id": 778,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "klefki",
     "jpName": "クレッフィ",
     "id": 707,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "indeedee",
     "jpName": "イエッサン",
     "id": 876,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "bramblin",
     "jpName": "アノクサ",
     "id": 946,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "brambleghast",
     "jpName": "アノホラグサ",
     "id": 947,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "toedscool",
     "jpName": "ノノクラゲ",
     "id": 948,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "toedscruel",
     "jpName": "リククラゲ",
     "id": 949,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "tropius",
     "jpName": "トロピウス",
     "id": 357,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "fomantis",
     "jpName": "カリキリ",
     "id": 753,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "lurantis",
     "jpName": "ラランテス",
     "id": 754,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "klawf",
     "jpName": "ガケガニ",
     "id": 950,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "capsakid",
     "jpName": "カプサイジ",
     "id": 951,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "scovillain",
     "jpName": "スコヴィラン",
     "id": 952,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "cacnea",
     "jpName": "サボネア",
     "id": 331,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "cacturne",
     "jpName": "ノクタス",
     "id": 332,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "rellor",
     "jpName": "シガロコ",
     "id": 953,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "rabsca",
     "jpName": "ベラカス",
     "id": 954,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "venonat",
     "jpName": "コンパン",
     "id": 48,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "venomoth",
     "jpName": "モルフォン",
     "id": 49,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "pineco",
     "jpName": "クヌギダマ",
     "id": 204,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "forretress",
     "jpName": "フォレトス",
     "id": 205,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "scyther",
     "jpName": "ストライク",
     "id": 123,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "scizor",
     "jpName": "ハッサム",
     "id": 212,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "heracross",
     "jpName": "ヘラクロス",
     "id": 214,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "flittle",
     "jpName": "ヒラヒナ",
     "id": 955,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "espathra",
     "jpName": "クエスパトラ",
     "id": 956,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "hippopotas",
     "jpName": "ヒポポタス",
     "id": 449,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "hippowdon",
     "jpName": "カバルドン",
     "id": 450,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "sandile",
     "jpName": "メグロコ",
     "id": 551,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "krokorok",
     "jpName": "ワルビル",
     "id": 552,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "krookodile",
     "jpName": "ワルビアル",
     "id": 553,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "silicobra",
     "jpName": "スナヘビ",
     "id": 843,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "sandaconda",
     "jpName": "サダイジャ",
     "id": 844,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "mudbray",
     "jpName": "ドロバンコ",
     "id": 749,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "mudsdale",
     "jpName": "バンバドロ",
     "id": 750,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "larvesta",
     "jpName": "メラルバ",
     "id": 636,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "volcarona",
     "jpName": "ウルガモス",
     "id": 637,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "bagon",
     "jpName": "タツベイ",
     "id": 371,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "shelgon",
     "jpName": "コモルー",
     "id": 372,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "salamence",
     "jpName": "ボーマンダ",
     "id": 373,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "tinkatink",
     "jpName": "カヌチャン",
     "id": 957,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "tinkatuff",
     "jpName": "ナカヌチャン",
     "id": 958,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "tinkaton",
     "jpName": "デカヌチャン",
     "id": 959,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "hatenna",
     "jpName": "ミブリム",
     "id": 856,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "hattrem",
     "jpName": "テブリム",
     "id": 857,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "hatterene",
     "jpName": "ブリムオン",
     "id": 858,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "impidimp",
     "jpName": "ベロバー",
     "id": 859,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "morgrem",
     "jpName": "ギモー",
     "id": 860,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "grimmsnarl",
     "jpName": "オーロンゲ",
     "id": 861,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "wiglett",
     "jpName": "ウミディグダ",
     "id": 960,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "wugtrio",
     "jpName": "ウミトリオ",
     "id": 961,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "bombirdier",
     "jpName": "オトシドリ",
     "id": 962,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "finizen",
     "jpName": "ナミイルカ",
     "id": 963,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "palafin",
     "jpName": "イルカマン",
     "id": 964,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "varoom",
     "jpName": "ブロロン",
     "id": 965,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "revavroom",
     "jpName": "ブロロローム",
     "id": 966,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "cyclizar",
     "jpName": "モトトカゲ",
     "id": 967,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "orthworm",
     "jpName": "ミミズズ",
     "id": 968,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "sableye",
     "jpName": "ヤミラミ",
     "id": 302,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "shuppet",
     "jpName": "カゲボウズ",
     "id": 353,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "banette",
     "jpName": "ジュペッタ",
     "id": 354,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "falinks",
     "jpName": "タイレーツ",
     "id": 870,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "hawlucha",
     "jpName": "ルチャブル",
     "id": 701,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "spiritomb",
     "jpName": "ミカルゲ",
     "id": 442,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "noibat",
     "jpName": "オンバット",
     "id": 714,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "noivern",
     "jpName": "オンバーン",
     "id": 715,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "dreepy",
     "jpName": "ドラメシヤ",
     "id": 885,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "drakloak",
     "jpName": "ドロンチ",
     "id": 886,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "dragapult",
     "jpName": "ドラパルト",
     "id": 887,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "glimmet",
     "jpName": "キラーメ",
     "id": 969,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "glimmora",
     "jpName": "キラフロル",
     "id": 970,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "rotom",
     "jpName": "ロトム",
     "id": 479,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "greavard",
     "jpName": "ボチ",
     "id": 971,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "houndstone",
     "jpName": "ハカドッグ",
     "id": 972,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "oranguru",
     "jpName": "ヤレユータン",
     "id": 765,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "passimian",
     "jpName": "ナゲツケサル",
     "id": 766,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "komala",
     "jpName": "ネッコアラ",
     "id": 775,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "larvitar",
     "jpName": "ヨーギラス",
     "id": 246,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "pupitar",
     "jpName": "サナギラス",
     "id": 247,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "tyranitar",
     "jpName": "バンギラス",
     "id": 248,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "stonjourner",
     "jpName": "イシヘンジン",
     "id": 874,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "eiscue",
     "jpName": "コオリッポ",
     "id": 875,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "pincurchin",
     "jpName": "バチンウニ",
     "id": 871,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "sandygast",
     "jpName": "スナバァ",
     "id": 769,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "palossand",
     "jpName": "シロデスナ",
     "id": 770,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "slowpoke",
     "jpName": "ヤドン",
     "id": 79,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "slowbro",
     "jpName": "ヤドラン",
     "id": 80,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "slowking",
     "jpName": "ヤドキング",
     "id": 199,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "shellos",
     "jpName": "カラナクシ",
     "id": 422,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "gastrodon",
     "jpName": "トリトドン",
     "id": 423,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "shellder",
     "jpName": "シェルダー",
     "id": 90,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "cloyster",
     "jpName": "パルシェン",
     "id": 91,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "qwilfish",
     "jpName": "ハリーセン",
     "id": 211,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "luvdisc",
     "jpName": "ラブカス",
     "id": 370,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "finneon",
     "jpName": "ケイコウオ",
     "id": 456,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "lumineon",
     "jpName": "ネオラント",
     "id": 457,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "bruxish",
     "jpName": "ハギギシリ",
     "id": 779,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "alomomola",
     "jpName": "ママンボウ",
     "id": 594,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "skrelp",
     "jpName": "クズモー",
     "id": 690,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "dragalge",
     "jpName": "ドラミドロ",
     "id": 691,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "clauncher",
     "jpName": "ウデッポウ",
     "id": 692,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "clawitzer",
     "jpName": "ブロスター",
     "id": 693,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "tynamo",
     "jpName": "シビシラス",
     "id": 602,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "eelektrik",
     "jpName": "シビビール",
     "id": 603,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "eelektross",
     "jpName": "シビルドン",
     "id": 604,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "mareanie",
     "jpName": "ヒドイデ",
     "id": 747,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "toxapex",
     "jpName": "ドヒドイデ",
     "id": 748,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "flamigo",
     "jpName": "カラミンゴ",
     "id": 973,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "dratini",
     "jpName": "ミニリュウ",
     "id": 147,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "dragonair",
     "jpName": "ハクリュー",
     "id": 148,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "dragonite",
     "jpName": "カイリュー",
     "id": 149,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "snom",
     "jpName": "ユキハミ",
     "id": 872,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "frosmoth",
     "jpName": "モスノウ",
     "id": 873,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "snover",
     "jpName": "ユキカブリ",
     "id": 459,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "abomasnow",
     "jpName": "ユキノオー",
     "id": 460,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "delibird",
     "jpName": "デリバード",
     "id": 225,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "cubchoo",
     "jpName": "クマシュン",
     "id": 613,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "beartic",
     "jpName": "ツンベアー",
     "id": 614,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "snorunt",
     "jpName": "ユキワラシ",
     "id": 361,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "glalie",
     "jpName": "オニゴーリ",
     "id": 362,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "froslass",
     "jpName": "ユキメノコ",
     "id": 478,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "cryogonal",
     "jpName": "フリージオ",
     "id": 615,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "cetoddle",
     "jpName": "アルクジラ",
     "id": 974,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "cetitan",
     "jpName": "ハルクジラ",
     "id": 975,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "bergmite",
     "jpName": "カチコール",
     "id": 712,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "avalugg",
     "jpName": "クレベース",
     "id": 713,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "rufflet",
     "jpName": "ワシボン",
     "id": 627,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "braviary",
     "jpName": "ウォーグル",
     "id": 628,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "pawniard",
     "jpName": "コマタナ",
     "id": 624,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "bisharp",
     "jpName": "キリキザン",
     "id": 625,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "kingambit",
     "jpName": "ドドゲザン",
     "id": 983,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "deino",
     "jpName": "モノズ",
     "id": 633,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "zweilous",
     "jpName": "ジヘッド",
     "id": 634,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "hydreigon",
     "jpName": "サザンドラ",
     "id": 635,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "veluza",
     "jpName": "ミガルーサ",
     "id": 976,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "dondozo",
     "jpName": "ヘイラッシャ",
     "id": 977,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "tatsugiri",
     "jpName": "シャリタツ",
     "id": 978,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "great-tusk",
     "jpName": "イダイナキバ",
     "id": 984,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "scream-tail",
     "jpName": "サケブシッポ",
     "id": 985,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "brute-bonnet",
     "jpName": "アラブルタケ",
     "id": 986,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "flutter-mane",
     "jpName": "ハバタクカミ",
     "id": 987,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "slither-wing",
     "jpName": "チヲハウハネ",
     "id": 988,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "sandy-shocks",
     "jpName": "スナノケガワ",
     "id": 989,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "iron-treads",
     "jpName": "テツノワダチ",
     "id": 990,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "iron-bundle",
     "jpName": "テツノツツミ",
     "id": 991,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "iron-hands",
     "jpName": "テツノカイナ",
     "id": 992,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "iron-jugulis",
     "jpName": "テツノコウベ",
     "id": 993,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "iron-moth",
     "jpName": "テツノドクガ",
     "id": 994,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "iron-thorns",
     "jpName": "テツノイバラ",
     "id": 995,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "frigibax",
     "jpName": "セビエ",
     "id": 996,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "arctibax",
     "jpName": "セゴール",
     "id": 997,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "baxcalibur",
     "jpName": "セグレイブ",
     "id": 998,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "gimmighoul",
     "jpName": "コレクレー",
     "id": 999,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "gholdengo",
     "jpName": "サーフゴー",
     "id": 1000,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "wo-chien",
     "jpName": "チオンジェン",
     "id": 1001,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "chien-pao",
     "jpName": "パオジアン",
     "id": 1002,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "ting-lu",
     "jpName": "ディンルー",
     "id": 1003,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "chi-yu",
     "jpName": "イーユイ",
     "id": 1004,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "roaring-moon",
     "jpName": "トドロクツキ",
     "id": 1005,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "iron-valiant",
     "jpName": "テツノブジン",
     "id": 1006,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "koraidon",
     "jpName": "コライドン",
     "id": 1007,
     "isFinalEvolution": true,
-    "isRestricted": true
+    "isRestricted": true,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "miraidon",
     "jpName": "ミライドン",
     "id": 1008,
     "isFinalEvolution": true,
-    "isRestricted": true
+    "isRestricted": true,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "spinarak",
     "jpName": "イトマル",
     "id": 167,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "ariados",
     "jpName": "アリアドス",
     "id": 168,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "yanma",
     "jpName": "ヤンヤンマ",
     "id": 193,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "yanmega",
     "jpName": "メガヤンマ",
     "id": 469,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "quagsire",
     "jpName": "ヌオー",
     "id": 195,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "poochyena",
     "jpName": "ポチエナ",
     "id": 261,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "mightyena",
     "jpName": "グラエナ",
     "id": 262,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "volbeat",
     "jpName": "バルビート",
     "id": 313,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "illumise",
     "jpName": "イルミーゼ",
     "id": 314,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "corphish",
     "jpName": "ヘイガニ",
     "id": 341,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "crawdaunt",
     "jpName": "シザリガー",
     "id": 342,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "sewaddle",
     "jpName": "クルミル",
     "id": 540,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "swadloon",
     "jpName": "クルマユ",
     "id": 541,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "leavanny",
     "jpName": "ハハコモリ",
     "id": 542,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "cutiefly",
     "jpName": "アブリー",
     "id": 742,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "ribombee",
     "jpName": "アブリボン",
     "id": 743,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "ekans",
     "jpName": "アーボ",
     "id": 23,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "arbok",
     "jpName": "アーボック",
     "id": 24,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "bellsprout",
     "jpName": "マダツボミ",
     "id": 69,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "weepinbell",
     "jpName": "ウツドン",
     "id": 70,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "victreebel",
     "jpName": "ウツボット",
     "id": 71,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "sentret",
     "jpName": "オタチ",
     "id": 161,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "furret",
     "jpName": "オオタチ",
     "id": 162,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "dipplin",
     "jpName": "カミッチュ",
     "id": 1011,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "vulpix",
     "jpName": "ロコン",
     "id": 37,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "ninetales",
     "jpName": "キュウコン",
     "id": 38,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "poliwag",
     "jpName": "ニョロモ",
     "id": 60,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "poliwhirl",
     "jpName": "ニョロゾ",
     "id": 61,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "poliwrath",
     "jpName": "ニョロボン",
     "id": 62,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "politoed",
     "jpName": "ニョロトノ",
     "id": 186,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "hoothoot",
     "jpName": "ホーホー",
     "id": 163,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "noctowl",
     "jpName": "ヨルノズク",
     "id": 164,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "aipom",
     "jpName": "エイパム",
     "id": 190,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "ambipom",
     "jpName": "エテボース",
     "id": 424,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "swinub",
     "jpName": "ウリムー",
     "id": 220,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "piloswine",
     "jpName": "イノムー",
     "id": 221,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "mamoswine",
     "jpName": "マンムー",
     "id": 473,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "seedot",
     "jpName": "タネボー",
     "id": 273,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "nuzleaf",
     "jpName": "コノハナ",
     "id": 274,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "shiftry",
     "jpName": "ダーテング",
     "id": 275,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "phantump",
     "jpName": "ボクレー",
     "id": 708,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "trevenant",
     "jpName": "オーロット",
     "id": 709,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "poltchageist",
     "jpName": "チャデス",
     "id": 1012,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "sinistcha",
     "jpName": "ヤバソチャ",
     "id": 1013,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "geodude",
     "jpName": "イシツブテ",
     "id": 74,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "graveler",
     "jpName": "ゴローン",
     "id": 75,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "golem",
     "jpName": "ゴローニャ",
     "id": 76,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "timburr",
     "jpName": "ドッコラー",
     "id": 532,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "gurdurr",
     "jpName": "ドテッコツ",
     "id": 533,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "conkeldurr",
     "jpName": "ローブシン",
     "id": 534,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "morpeko",
     "jpName": "モルペコ",
     "id": 877,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "munchlax",
     "jpName": "ゴンベ",
     "id": 446,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "snorlax",
     "jpName": "カビゴン",
     "id": 143,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "lotad",
     "jpName": "ハスボー",
     "id": 270,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "lombre",
     "jpName": "ハスブレロ",
     "id": 271,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "ludicolo",
     "jpName": "ルンパッパ",
     "id": 272,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "nosepass",
     "jpName": "ノズパス",
     "id": 299,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "probopass",
     "jpName": "ダイノーズ",
     "id": 476,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "grubbin",
     "jpName": "アゴジムシ",
     "id": 736,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "charjabug",
     "jpName": "デンヂムシ",
     "id": 737,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "vikavolt",
     "jpName": "クワガノン",
     "id": 738,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "sandshrew",
     "jpName": "サンド",
     "id": 27,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "sandslash",
     "jpName": "サンドパン",
     "id": 28,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "gligar",
     "jpName": "グライガー",
     "id": 207,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "gliscor",
     "jpName": "グライオン",
     "id": 472,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "vullaby",
     "jpName": "バルチャイ",
     "id": 629,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "mandibuzz",
     "jpName": "バルジーナ",
     "id": 630,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "jangmo-o",
     "jpName": "ジャラコ",
     "id": 782,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "hakamo-o",
     "jpName": "ジャランゴ",
     "id": 783,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "kommo-o",
     "jpName": "ジャラランガ",
     "id": 784,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "koffing",
     "jpName": "ドガース",
     "id": 109,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "weezing",
     "jpName": "マタドガス",
     "id": 110,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "mienfoo",
     "jpName": "コジョフー",
     "id": 619,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "mienshao",
     "jpName": "コジョンド",
     "id": 620,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "duskull",
     "jpName": "ヨマワル",
     "id": 355,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "dusclops",
     "jpName": "サマヨール",
     "id": 356,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "dusknoir",
     "jpName": "ヨノワール",
     "id": 477,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "chingling",
     "jpName": "リーシャン",
     "id": 433,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "chimecho",
     "jpName": "チリーン",
     "id": 358,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "slugma",
     "jpName": "マグマッグ",
     "id": 218,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "magcargo",
     "jpName": "マグカルゴ",
     "id": 219,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "litwick",
     "jpName": "ヒトモシ",
     "id": 607,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "lampent",
     "jpName": "ランプラー",
     "id": 608,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "chandelure",
     "jpName": "シャンデラ",
     "id": 609,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "cleffa",
     "jpName": "ピィ",
     "id": 173,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "clefairy",
     "jpName": "ピッピ",
     "id": 35,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "clefable",
     "jpName": "ピクシー",
     "id": 36,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "feebas",
     "jpName": "ヒンバス",
     "id": 349,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "milotic",
     "jpName": "ミロカロス",
     "id": 350,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "carbink",
     "jpName": "メレシー",
     "id": 703,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "ducklett",
     "jpName": "コアルヒー",
     "id": 580,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "swanna",
     "jpName": "スワンナ",
     "id": 581,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "cramorant",
     "jpName": "ウッウ",
     "id": 845,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "basculegion",
     "jpName": "イダイトウ",
     "id": 902,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "ursaluna",
     "jpName": "ガチグマ",
     "id": 901,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "okidogi",
     "jpName": "イイネイヌ",
     "id": 1014,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "munkidori",
     "jpName": "マシマシラ",
     "id": 1015,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "fezandipiti",
     "jpName": "キチキギス",
     "id": 1016,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "ogerpon",
     "jpName": "オーガポン",
     "id": 1017,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "doduo",
     "jpName": "ドードー",
     "id": 84,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "dodrio",
     "jpName": "ドードリオ",
     "id": 85,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "exeggcute",
     "jpName": "タマタマ",
     "id": 102,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "exeggutor",
     "jpName": "ナッシー",
     "id": 103,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "rhyhorn",
     "jpName": "サイホーン",
     "id": 111,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "rhydon",
     "jpName": "サイドン",
     "id": 112,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "rhyperior",
     "jpName": "ドサイドン",
     "id": 464,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "elekid",
     "jpName": "エレキッド",
     "id": 239,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "electabuzz",
     "jpName": "エレブー",
     "id": 125,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "electivire",
     "jpName": "エレキブル",
     "id": 466,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "magby",
     "jpName": "ブビィ",
     "id": 240,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "magmar",
     "jpName": "ブーバー",
     "id": 126,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "magmortar",
     "jpName": "ブーバーン",
     "id": 467,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "kleavor",
     "jpName": "バサギリ",
     "id": 900,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "blitzle",
     "jpName": "シママ",
     "id": 522,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "zebstrika",
     "jpName": "ゼブライカ",
     "id": 523,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "smeargle",
     "jpName": "ドーブル",
     "id": 235,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "milcery",
     "jpName": "マホミル",
     "id": 868,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "alcremie",
     "jpName": "マホイップ",
     "id": 869,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "trapinch",
     "jpName": "ナックラー",
     "id": 328,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "vibrava",
     "jpName": "ビブラーバ",
     "id": 329,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "flygon",
     "jpName": "フライゴン",
     "id": 330,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "pikipek",
     "jpName": "ツツケラ",
     "id": 731,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "trumbeak",
     "jpName": "ケララッパ",
     "id": 732,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "toucannon",
     "jpName": "ドデカバシ",
     "id": 733,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "tentacool",
     "jpName": "メノクラゲ",
     "id": 72,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "tentacruel",
     "jpName": "ドククラゲ",
     "id": 73,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "horsea",
     "jpName": "タッツー",
     "id": 116,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "seadra",
     "jpName": "シードラ",
     "id": 117,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "kingdra",
     "jpName": "キングドラ",
     "id": 230,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "cottonee",
     "jpName": "モンメン",
     "id": 546,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "whimsicott",
     "jpName": "エルフーン",
     "id": 547,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "comfey",
     "jpName": "キュワワー",
     "id": 764,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "oddish",
     "jpName": "ナゾノクサ",
     "id": 43,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "gloom",
     "jpName": "クサイハナ",
     "id": 44,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "vileplume",
     "jpName": "ラフレシア",
     "id": 45,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "bellossom",
     "jpName": "キレイハナ",
     "id": 182,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "chinchou",
     "jpName": "チョンチー",
     "id": 170,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "lanturn",
     "jpName": "ランターン",
     "id": 171,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "inkay",
     "jpName": "マーイーカ",
     "id": 686,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "malamar",
     "jpName": "カラマネロ",
     "id": 687,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "dewpider",
     "jpName": "シズクモ",
     "id": 751,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "araquanid",
     "jpName": "オニシズクモ",
     "id": 752,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "tyrogue",
     "jpName": "バルキー",
     "id": 236,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "hitmonlee",
     "jpName": "サワムラー",
     "id": 106,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "hitmonchan",
     "jpName": "エビワラー",
     "id": 107,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "hitmontop",
     "jpName": "カポエラー",
     "id": 237,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "drilbur",
     "jpName": "モグリュー",
     "id": 529,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "excadrill",
     "jpName": "ドリュウズ",
     "id": 530,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "espurr",
     "jpName": "ニャスパー",
     "id": 677,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "meowstic",
     "jpName": "ニャオニクス",
     "id": 678,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "minior",
     "jpName": "メテノ",
     "id": 774,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "cranidos",
     "jpName": "ズガイドス",
     "id": 408,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "rampardos",
     "jpName": "ラムパルド",
     "id": 409,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "shieldon",
     "jpName": "タテトプス",
     "id": 410,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "bastiodon",
     "jpName": "トリデプス",
     "id": 411,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "minccino",
     "jpName": "チラーミィ",
     "id": 572,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "cinccino",
     "jpName": "チラチーノ",
     "id": 573,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "skarmory",
     "jpName": "エアームド",
     "id": 227,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "plusle",
     "jpName": "プラスル",
     "id": 311,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "minun",
     "jpName": "マイナン",
     "id": 312,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "scraggy",
     "jpName": "ズルッグ",
     "id": 559,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "scrafty",
     "jpName": "ズルズキン",
     "id": 560,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "golett",
     "jpName": "ゴビット",
     "id": 622,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "golurk",
     "jpName": "ゴルーグ",
     "id": 623,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "porygon",
     "jpName": "ポリゴン",
     "id": 137,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "porygon2",
     "jpName": "ポリゴン２",
     "id": 233,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "porygon-z",
     "jpName": "ポリゴンＺ",
     "id": 474,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "joltik",
     "jpName": "バチュル",
     "id": 595,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "galvantula",
     "jpName": "デンチュラ",
     "id": 596,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "beldum",
     "jpName": "ダンバル",
     "id": 374,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "metang",
     "jpName": "メタング",
     "id": 375,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "metagross",
     "jpName": "メタグロス",
     "id": 376,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "seel",
     "jpName": "パウワウ",
     "id": 86,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "dewgong",
     "jpName": "ジュゴン",
     "id": 87,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "lapras",
     "jpName": "ラプラス",
     "id": 131,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "overqwil",
     "jpName": "ハリーマン",
     "id": 904,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "solosis",
     "jpName": "ユニラン",
     "id": 577,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "duosion",
     "jpName": "ダブラン",
     "id": 578,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "reuniclus",
     "jpName": "ランクルス",
     "id": 579,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "snubbull",
     "jpName": "ブルー",
     "id": 209,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "granbull",
     "jpName": "グランブル",
     "id": 210,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "duraludon",
     "jpName": "ジュラルドン",
     "id": 884,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "archaludon",
     "jpName": "ブリジュラス",
     "id": 1018,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "hydrapple",
     "jpName": "カミツオロチ",
     "id": 1019,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "bulbasaur",
     "jpName": "フシギダネ",
     "id": 1,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "ivysaur",
     "jpName": "フシギソウ",
     "id": 2,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "venusaur",
     "jpName": "フシギバナ",
     "id": 3,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "charmander",
     "jpName": "ヒトカゲ",
     "id": 4,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "charmeleon",
     "jpName": "リザード",
     "id": 5,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "charizard",
     "jpName": "リザードン",
     "id": 6,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "squirtle",
     "jpName": "ゼニガメ",
     "id": 7,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "wartortle",
     "jpName": "カメール",
     "id": 8,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "blastoise",
     "jpName": "カメックス",
     "id": 9,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "chikorita",
     "jpName": "チコリータ",
     "id": 152,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "bayleef",
     "jpName": "ベイリーフ",
     "id": 153,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "meganium",
     "jpName": "メガニウム",
     "id": 154,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "cyndaquil",
     "jpName": "ヒノアラシ",
     "id": 155,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "quilava",
     "jpName": "マグマラシ",
     "id": 156,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "typhlosion",
     "jpName": "バクフーン",
     "id": 157,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "totodile",
     "jpName": "ワニノコ",
     "id": 158,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "croconaw",
     "jpName": "アリゲイツ",
     "id": 159,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "feraligatr",
     "jpName": "オーダイル",
     "id": 160,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "treecko",
     "jpName": "キモリ",
     "id": 252,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "grovyle",
     "jpName": "ジュプトル",
     "id": 253,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "sceptile",
     "jpName": "ジュカイン",
     "id": 254,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "torchic",
     "jpName": "アチャモ",
     "id": 255,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "combusken",
     "jpName": "ワカシャモ",
     "id": 256,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "blaziken",
     "jpName": "バシャーモ",
     "id": 257,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "mudkip",
     "jpName": "ミズゴロウ",
     "id": 258,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "marshtomp",
     "jpName": "ヌマクロー",
     "id": 259,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "swampert",
     "jpName": "ラグラージ",
     "id": 260,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "turtwig",
     "jpName": "ナエトル",
     "id": 387,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "grotle",
     "jpName": "ハヤシガメ",
     "id": 388,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "torterra",
     "jpName": "ドダイトス",
     "id": 389,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "chimchar",
     "jpName": "ヒコザル",
     "id": 390,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "monferno",
     "jpName": "モウカザル",
     "id": 391,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "infernape",
     "jpName": "ゴウカザル",
     "id": 392,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "piplup",
     "jpName": "ポッチャマ",
     "id": 393,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "prinplup",
     "jpName": "ポッタイシ",
     "id": 394,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "empoleon",
     "jpName": "エンペルト",
     "id": 395,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "snivy",
     "jpName": "ツタージャ",
     "id": 495,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "servine",
     "jpName": "ジャノビー",
     "id": 496,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "serperior",
     "jpName": "ジャローダ",
     "id": 497,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "tepig",
     "jpName": "ポカブ",
     "id": 498,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "pignite",
     "jpName": "チャオブー",
     "id": 499,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "emboar",
     "jpName": "エンブオー",
     "id": 500,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "oshawott",
     "jpName": "ミジュマル",
     "id": 501,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "dewott",
     "jpName": "フタチマル",
     "id": 502,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "samurott",
     "jpName": "ダイケンキ",
     "id": 503,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "chespin",
     "jpName": "ハリマロン",
     "id": 650,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "quilladin",
     "jpName": "ハリボーグ",
     "id": 651,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "chesnaught",
     "jpName": "ブリガロン",
     "id": 652,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "fennekin",
     "jpName": "フォッコ",
     "id": 653,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "braixen",
     "jpName": "テールナー",
     "id": 654,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "delphox",
     "jpName": "マフォクシー",
     "id": 655,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "froakie",
     "jpName": "ケロマツ",
     "id": 656,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "frogadier",
     "jpName": "ゲコガシラ",
     "id": 657,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "greninja",
     "jpName": "ゲッコウガ",
     "id": 658,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "rowlet",
     "jpName": "モクロー",
     "id": 722,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "dartrix",
     "jpName": "フクスロー",
     "id": 723,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "decidueye",
     "jpName": "ジュナイパー",
     "id": 724,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "litten",
     "jpName": "ニャビー",
     "id": 725,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "torracat",
     "jpName": "ニャヒート",
     "id": 726,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "incineroar",
     "jpName": "ガオガエン",
     "id": 727,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "popplio",
     "jpName": "アシマリ",
     "id": 728,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "brionne",
     "jpName": "オシャマリ",
     "id": 729,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "primarina",
     "jpName": "アシレーヌ",
     "id": 730,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "grookey",
     "jpName": "サルノリ",
     "id": 810,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "thwackey",
     "jpName": "バチンキー",
     "id": 811,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "rillaboom",
     "jpName": "ゴリランダー",
     "id": 812,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "scorbunny",
     "jpName": "ヒバニー",
     "id": 813,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "raboot",
     "jpName": "ラビフット",
     "id": 814,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "cinderace",
     "jpName": "エースバーン",
     "id": 815,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "sobble",
     "jpName": "メッソン",
     "id": 816,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "drizzile",
     "jpName": "ジメレオン",
     "id": 817,
     "isFinalEvolution": false,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "inteleon",
     "jpName": "インテレオン",
     "id": 818,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "gouging-fire",
     "jpName": "ウガツホムラ",
     "id": 1020,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "raging-bolt",
     "jpName": "タケルライコ",
     "id": 1021,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "iron-crown",
     "jpName": "テツノカシラ",
     "id": 1023,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "iron-boulder",
     "jpName": "テツノイワオ",
     "id": 1022,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "terapagos",
     "jpName": "テラパゴス",
     "id": 1024,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "walking-wake",
     "jpName": "ウネルミナモ",
     "id": 1009,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "iron-leaves",
     "jpName": "テツノイサハ",
     "id": 1010,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "pecharunt",
     "jpName": "モモワロウ",
     "id": 1025,
     "isFinalEvolution": true,
-    "isRestricted": true
+    "isRestricted": true,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "regirock",
     "jpName": "レジロック",
     "id": 377,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "regice",
     "jpName": "レジアイス",
     "id": 378,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "registeel",
     "jpName": "レジスチル",
     "id": 379,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
+  },
+  {
+    "name": "regigigas",
+    "jpName": "レジギガス",
+    "id": 486,
+    "isFinalEvolution": true,
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "uxie",
     "jpName": "ユクシー",
     "id": 480,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "mesprit",
     "jpName": "エムリット",
     "id": 481,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "azelf",
     "jpName": "アグノム",
     "id": 482,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "heatran",
     "jpName": "ヒードラン",
     "id": 485,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "cresselia",
     "jpName": "クレセリア",
     "id": 488,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "tornadus",
     "jpName": "トルネロス",
     "id": 641,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "thundurus",
     "jpName": "ボルトロス",
     "id": 642,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "landorus",
     "jpName": "ランドロス",
     "id": 645,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "regieleki",
     "jpName": "レジエレキ",
     "id": 894,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "regidrago",
     "jpName": "レジドラゴ",
     "id": 895,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "wyrdeer",
     "jpName": "アヤシシ",
     "id": 899,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "sneasler",
     "jpName": "オオニューラ",
     "id": 903,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "enamorus",
     "jpName": "ラブトロス",
     "id": 905,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "ursaluna",
     "jpName": "ガチグマ",
     "id": 901,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "raikou",
     "jpName": "ライコウ",
     "id": 243,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "entei",
     "jpName": "エンテイ",
     "id": 244,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "suicune",
     "jpName": "スイクン",
     "id": 245,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "latios",
     "jpName": "ラティオス",
     "id": 381,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "glastrier",
     "jpName": "ブリザポス",
     "id": 896,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "latias",
     "jpName": "ラティアス",
     "id": 380,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "cobalion",
     "jpName": "コバルオン",
     "id": 638,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "terrakion",
     "jpName": "テラキオン",
     "id": 639,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "virizion",
     "jpName": "ビリジオン",
     "id": 640,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   },
   {
     "name": "spectrier",
     "jpName": "レイスポス",
     "id": 897,
     "isFinalEvolution": true,
-    "isRestricted": false
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
+  },
+  {
+    "name": "articuno",
+    "jpName": "フリーザー",
+    "id": 144,
+    "isFinalEvolution": true,
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
+  },
+  {
+    "name": "zapdos",
+    "jpName": "サンダー",
+    "id": 145,
+    "isFinalEvolution": true,
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
+  },
+  {
+    "name": "moltres",
+    "jpName": "ファイヤー",
+    "id": 146,
+    "isFinalEvolution": true,
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
+  },
+  {
+    "name": "kubfu",
+    "jpName": "ダクマ",
+    "id": 891,
+    "isFinalEvolution": false,
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
+  },
+  {
+    "name": "urshifu",
+    "jpName": "ウーラオス",
+    "id": 892,
+    "isFinalEvolution": true,
+    "isRestricted": false,
+    "isEeveelution": false,
+    "isLimited": false
   }
 ]
