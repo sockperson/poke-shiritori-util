@@ -5944,7 +5944,7 @@
     "jpName": "テラパゴス",
     "id": 1024,
     "isFinalEvolution": true,
-    "isRestricted": false,
+    "isRestricted": true,
     "isEeveelution": false,
     "isLimited": false
   },
